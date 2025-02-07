@@ -28,7 +28,7 @@ DEBUG = True
 
 
 
-ALLOWED_HOSTS = ['estadisticacomercio-production.up.railway.app'] #Para despliegue en raiwail debe estar descomentada
+ALLOWED_HOSTS = ['web-production-17b00.up.railway.app'] #Para despliegue en raiwail debe estar descomentada
 #ALLOWED_HOSTS = []  #Para ejecucion local debe estar descomentada
 
 
